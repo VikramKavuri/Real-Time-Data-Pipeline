@@ -15,7 +15,7 @@
 
 **Enterprise-Grade Real-Time Data Pipeline: From Stream to Insights in Minutes!** 🎯
 
-[View Architecture](#-architecture) · [Quick Start](#-quick-start) · [Live Demo](#-demo) · [Documentation](#-documentation)
+[View Architecture](#-architecture) 
 
 <img src="./images/pipeline-dashboard.gif" alt="Pipeline Dashboard" width="800">
 
@@ -499,9 +499,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Senior Data Engineer | Cloud Architect | Big Data Specialist*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramkavuri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramkavuri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramkavuri.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikram.kavuri@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrivikrama-rao-kavuri-7290b6147/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thrivikr@buffalo.edu)
 
 </div>
 
