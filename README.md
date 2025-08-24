@@ -11,13 +11,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![Pipeline](https://img.shields.io/badge/Pipeline-Real--time-orange)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/snowflake-kinesis-airflow?style=social)](https://github.com/yourusername/snowflake-kinesis-airflow)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/snowflake-kinesis-airflow?style=social)](https://github.com/VikramKavuri/Real-Time-Data-Pipeline)
 
 **Enterprise-Grade Real-Time Data Pipeline: From Stream to Insights in Minutes!** 🎯
 
 [View Architecture](#-architecture) 
 
-<img src="./images/pipeline-dashboard.gif" alt="Pipeline Dashboard" width="800">
+
 
 </div>
 
